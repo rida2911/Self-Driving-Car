@@ -1,0 +1,14 @@
+﻿# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Data & large files
+data/
+*.h5
+*.hdf5
+
+# VS Code
+.vscode/
